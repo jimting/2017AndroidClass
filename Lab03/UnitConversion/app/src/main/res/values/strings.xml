@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UnitConversion</string>
+    <string-array name="data">
+        <item>公分</item>
+        <item>公尺</item>
+        <item>公里</item>
+        <item>英吋</item>
+        <item>英呎</item>
+        <item>碼</item>
+        <item>英哩</item>
+    </string-array>
+
+</resources>
