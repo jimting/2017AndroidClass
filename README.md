@@ -44,3 +44,13 @@ lab08
 不同的Intent傳值(之前不是教過了?)及存值應用
 
 ----------
+
+lab09
+
+使用AndroidStudio GoogleMaps套件創建地圖程式
+
+這邊要注意一下電腦內虛擬機GooglePlayService的版本，如果比專案還要低或根本沒安裝，他就會跳出請更新GooglePlayService服務！
+
+若是比專案還要低，又不想更新的話，可以直接到Gradle更改map版本設定就好
+
+----------
